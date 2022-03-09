@@ -3,7 +3,7 @@ package Filipe_logic.java.util;
 import java.util.Scanner;
 
 
-public class frete {
+public class Frete {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
